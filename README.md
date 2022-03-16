@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with React Movie App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Featured API
+
+Movie List API: https://movie-task.vercel.app/api/popular?page=1 \
+Image Retrieve API: https://image.tmdb.org/t/p/original \
+Movie Search API: https://movie-task.vercel.app/api/search?page=1&query=movieName
 
 ## Available Scripts
 
